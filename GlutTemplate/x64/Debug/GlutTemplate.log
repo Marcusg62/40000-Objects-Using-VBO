@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\main.cpp(80): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\main.cpp(86): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\main.cpp(629): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\main.cpp(632): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GlutTemplate.vcxproj -> C:\Users\marcu\source\repos\GlutTemplate\x64\Debug\GlutTemplate.exe
