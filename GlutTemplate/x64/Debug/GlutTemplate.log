@@ -1,6 +1,22 @@
-﻿  main.cpp
-c:\users\marcu\source\repos\gluttemplate\gluttemplate\main.cpp(80): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\marcu\source\repos\gluttemplate\gluttemplate\main.cpp(86): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\marcu\source\repos\gluttemplate\gluttemplate\main.cpp(629): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\marcu\source\repos\gluttemplate\gluttemplate\main.cpp(632): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+﻿  trackballl.cpp
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(116): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(178): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(179): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(190): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(197): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(210): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(211): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(223): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(225): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(228): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(305): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(306): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(307): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(310): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(311): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(312): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(315): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(316): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marcu\source\repos\gluttemplate\gluttemplate\trackballl.cpp(317): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   GlutTemplate.vcxproj -> C:\Users\marcu\source\repos\GlutTemplate\x64\Debug\GlutTemplate.exe
